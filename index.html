@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="Axel Laborieux"/>
         <meta name="keywords" content="neuromorphic computing, C2N, PhD, continual learning, binarized neural networks, equilibrium propagation"/>
         
@@ -17,100 +17,105 @@
 
             <header class="header">
                 <div class="center">
-                  <h2>Axel Laborieux</h2>
+                  <h2 id="name">Axel Laborieux</h2>
                 </div>
-                <img style="width: 100%;" id="me" src="/pic/me.jpg" alt="Axel Laborieux">
+                <div class="center">
+                  <img id="me" src="/pic/me.jpg" alt="Axel Laborieux">
+                </div>
                 <ul>
                     <li><a href="https://scholar.google.com/citations?user=wodyq68AAAAJ&hl=fr">Google Scholar</a></li>
                     <li><a href="https://github.com/Laborieux-Axel">GitHub</a></li>
                     <li><a href="https://www.linkedin.com/in/axel-lbx/">Linkedin</a></li>
                     <li><a href="https://twitter.com/AxelLaborieux">Twitter</a></li>
+                    <li><a href="/pdf/Laborieux_Axel_academic_CV.pdf">Academic CV</a></li>
                 </ul>
             </header>
           
             <div class="content">
 
-              <h3>About me</h3>
+              <h2>About me</h2>
 
-                <p>I am a PhD student in Neuromorphic Computing at the 
+                <p>I am a PhD student in hardware-oriented AI at the 
                 <a href="https://www.c2n.universite-paris-saclay.fr/en/">Center for Nanoscience and Nanotechnology</a>, 
                 attached to Paris-Saclay University, under the supervision of 
                 <a href="https://sites.google.com/site/damienquerlioz">Damien Querlioz</a> and 
                 <a href="http://integnano.c2n.u-psud.fr/?page_id=167">Liza Herrera-Diez</a>.</p>
                 
 
-              <h3>My research interests</h3>
-                <p>I work on bio-inspired deep learning to reduce 
-                the energy cost of current AI models. More specifically, I am interested in biologically plausible learning rules and continual learning.</p>
+              <h2>Research interests</h2>
+                <p>I work on biologically plausible deep learning to reduce 
+                the energy cost of current AI models. More specifically, I am interested in biologically plausible learning algorithms and continual learning.</p>
 
-              <h3>News</h3>
+              <h2>News</h2>
               
                   <ul>
-                    <li>(02/21) - Our paper <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.633674/full">Scaling Equilibrium Propagation to Deep ConvNets by Drastically Reducing its Gradient Estimator Bias</a> is published in Frontiers in Neuroscience!</li>
-                    <li>(01/21) - I will present our work on <a href="https://arxiv.org/abs/2101.07592">Synaptic Metaplasticity in Binarized Neural Networks</a> as a poster at <a href="http://www.cosyne.org/c/index.php?title=Cosyne_21">Cosyne 2021</a></li>
-                    <li>(11/20) - I will present a poster about EqProp at a NeurIPS 2020 <a href="https://beyondbackprop.github.io">workshop</a></li>
-                    <li>(09/20) - Our paper got an <a href="/pic/aicas_award.jpg">award</a> at <a href="https://www.aicas2020.eu">AICAS2020</a>!</li>
-                    <li>(06/20) - Our work on a <a href="https://ieeexplore.ieee.org/abstract/document/9239258">hardware implementation of a ternary synaptic weight</a> is accepted in TCAS I</li>
-                    <li>(12/19) - Our paper <a href="https://ieeexplore.ieee.org/abstract/document/9073877">Low Power In-Memory Implementation of Ternary Neural Networks with Resistive RAM-Based Synapse</a> got accepted for a Lecture at <a href="https://www.aicas2020.eu">AICAS2020</a>.</li>
+                    <li><strong>(02/21)</strong> - Our paper <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.633674/full"><em>Scaling Equilibrium Propagation to Deep ConvNets by Drastically Reducing its Gradient Estimator Bias</em></a> is published in Frontiers in Neuroscience!</li>
+                    <li><strong>(01/21)</strong> - I will present our work on <a href="https://arxiv.org/abs/2003.03533">Synaptic Metaplasticity in Binarized Neural Networks</a> as a poster at <a href="http://www.cosyne.org/c/index.php?title=Cosyne_21">Cosyne 2021</a></li>
+                    <li><strong>(11/20)</strong> - I will present a poster about EqProp at a NeurIPS 2020 <a href="https://beyondbackprop.github.io">workshop</a></li>
+                    <li><strong>(09/20)</strong> - Our paper got an award at AICAS 2020!</li>
+                    <li><strong>(06/20)</strong> - Our work on a <a href="https://ieeexplore.ieee.org/abstract/document/9239258">hardware implementation of a ternary synaptic weight</a> is accepted in TCAS I</li>
+                    <li><strong>(12/19)</strong> - Our paper <a href="https://ieeexplore.ieee.org/abstract/document/9073877"><em>Low Power In-Memory Implementation of Ternary Neural Networks with Resistive RAM-Based Synapse</em></a> got accepted for a Lecture at <a href="https://www.aicas2020.eu">AICAS 2020</a>.</li>
                   </ul>
 
-              <h4>(02/21) - Paper published in Frontiers in Neuroscience!</h4>
-      
-              <p>
-                The main contribution of this work done in collaboration with the <a href="https://mila.quebec">MILA</a> 
-                is the identification of a bias in the gradient estimate of EqProp which makes the training of deeper architectures unstable.
-                We propose a symmetric estimate that mostly cancels the bias and benchmark the performance on CIFAR10 against Backprop Through Time.
-                Check it out <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.633674/full">here</a>! 
-              </p>
+              <h2>Recent publications</h2>
 
-              <h4>(01/21) - Poster at Cosyne 2021</h4>
+                  <table>
+                    <thead>
+                        <tr>
+                            <th>Authors</th>
+                            <th>Title</th>
+                            <th>Venue</th>
+                            <th>Links</th>
+                        </tr>
+                    </thead>
+         
+                    <tbody>
+                       <tr>
+                         <td>Laborieux, A., Ernoult, M.<br/>Hirtzlin, T. & Querlioz, D.</td>
+                         <td><strong>Synaptic Metaplasticity in Binarized Neural Networks</strong></td>
+                         <td><em>TBA</em></td>
+                         <td>[<a href="https://arxiv.org/abs/2003.03533">ArXiv</a>]<br/>[<a href="https://github.com/Laborieux-Axel/SynapticMetaplasticityBNN">Code</a>]</td>
+                       </tr>
+                       <tr>
+                        <td>Laborieux, A., Ernoult, M.<br/>Scellier, B., Bengio, Y.<br/>Grollier, J. & Querlioz, D.</td>
+                         <td><strong>Scaling Equilibrium Propagation to Deep Convnets by Drastically Reducing its Gradient Estimator Bias</strong></td>
+                         <td><em>Frontiers in neuroscience</em></td>
+                         <td>[<a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.633674/full">Paper</a>]<br/>[<a href="https://github.com/Laborieux-Axel/Equilibrium-Propagation">Code</a>]</td>
+                       </tr>
+                       <tr>
+                        <td>Laborieux, A., Bocquet, M., Hirtzlin, T., Klein, J. O., Nowak, E., Vianello, E., Portal, J-M. & Querlioz, D.</td>
+                         <td><strong>Implementation of Ternary Weights With Resistive RAM Using a Single Sense Operation per Synapse</strong></td>
+                         <td><em>TCAS I</em></td>
+                         <td>[<a href="https://ieeexplore.ieee.org/abstract/document/9239258">Paper</a>]<br/>[<a href="https://arxiv.org/abs/2007.14234">ArXiv</a>]<br/>[<a href="https://github.com/Laborieux-Axel/Quantized_VGG">Code</a>]</td>
+                       </tr>
+                       <tr>
+                        <td>Laborieux, A., Bocquet, M., Hirtzlin, T., Klein, J. O., Herrera-Diez, L., Nowak, E., Vianello, E., Portal, J-M. & Querlioz, D.</td>
+                         <td><strong>Low power in-memory implementation of ternary neural networks with resistive RAM-based synapse</strong></td>
+                         <td><em>AICAS 2020</em><br/>(<a href="/pic/aicas_award.jpg">2nd best paper award</a>)</td>
+                         <td>[<a href="https://ieeexplore.ieee.org/abstract/document/9073877">Paper</a>]<br/>[<a href="https://arxiv.org/abs/2005.01973">ArXiv</a>]<br/>[<a href="https://github.com/Laborieux-Axel/Quantized_VGG">Code</a>]</td>
+                       </tr>
+                    </tbody>
+                   </table>
               
-              <p>
-                Our <a href="https://arxiv.org/abs/2101.07592">abstract</a> on synaptic metaplasticity
-                in binarized neural networks has been accepted as a <a href="/pdf/cosyne.pdf">poster</a> at 
-                <a href="http://www.cosyne.org/c/index.php?title=Cosyne_21">Cosyne 2021</a>.
-              </p>
-              
-              <h4>(11/20) - Poster at a NeurIPS 2020 workshop</h4>
+              <h2>Talks and tutorials</h2>
 
-              <p>
-                Our <a href="https://arxiv.org/abs/2101.05536">abstract</a> on scaling EqProp has
-                been accepted as a <a href="/pdf/byondbp.pdf">poster</a> at the NeurIPS workshop 
-                <a href="https://beyondbackprop.github.io">Beyond Backpropagation</a>. I also made
-                a <a href="https://www.youtube.com/watch?v=K0BAHHyLwZg">video presentation</a>.
-              </p>
-              
-              <h4>(09/20) - Our paper got an award at AICAS2020!</h4>
-              <p>
-                We got the <a href="/pic/aicas_award.jpg">First honorary mention</a> which is equivalent to the 2nd best paper award 
-                out of the 
-                <a href="https://ieeexplore-ieee-org.ezproxy.u-pec.fr/xpl/conhome/9066468/proceeding">73 papers</a> 
-                presented at the conference.
-                I cannot be thankful enough to my amazing co-authors and 
-                supervisors Damien Querlioz and Liza Herrera-Diez!
-              </p>
-
-              <h4>(06/20) - Paper accepted for publication in TCAS I</h4>
-              <p>
-                An extended version of our work on the ternary synapse is published in TCAS-I as 
-                regular <a href="https://ieeexplore.ieee.org/abstract/document/9239258">paper</a>.
-                Also available on <a href="https://arxiv.org/abs/2007.14234">arxiv</a>. 
-                We added a study showing the resilience of our device to process, 
-                voltage and temperature variations. We also studied more in-depth the influence of
-                device errors on the model performance.
-              </p>
-
-              <h4>(12/19) - Paper accepted for a Lecture at AICAS2020</h4>
-
-              <p>
-                Our work on the implementation of a ternary neural network using RRAMs is in the proceedings of
-                the <a href="https://www.aicas2020.eu">AICAS2020</a> conference. 
-                This is done in collaboration with the <a href="https://www.im2np.fr">IM2NP</a> and 
-                <a href="https://www.leti-cea.fr/cea-tech/leti/Pages/Accueil.aspx">CEA-Leti</a>.
-                The paper is available <a href="https://ieeexplore.ieee.org/abstract/document/9073877">here</a> and on 
-                <a href="https://arxiv.org/abs/2005.01973">arxiv</a>.
-                You can find the slides of the lecture I gave <a href="/pdf/aicas_slides.pdf">here</a>.
-              </p>
+                   <ul>
+                     <li>
+                       <p>
+                         <a href="https://arxiv.org/abs/2101.07592">Abstract</a> and <a href="/pdf/cosyne.pdf">poster</a> presented at 
+                          <a href="http://www.cosyne.org/c/index.php?title=Cosyne_21">Cosyne 2021</a> on synaptic metaplasticity in binarized neural networks.
+                        </p>
+                      </li>
+                     <li>
+                       <p>
+                         <a href="https://arxiv.org/abs/2101.05536">Abstract</a>, <a href="/pdf/byondbp.pdf">poster</a> and <a href="https://www.youtube.com/watch?v=K0BAHHyLwZg">video presentation</a> for the NeurIPS 2020 workshop 
+                        <a href="https://beyondbackprop.github.io">Beyond Backpropagation</a> on scaling EqProp.
+                      </p>
+                    </li>
+                     <li>
+                       <p><a href="/pdf/aicas_slides.pdf">Slides</a> of the lecture I gave at AICAS 2020 on ternary neural networks implementation with resistive RAM-based synapses.</p>
+                     </li>
+                   </ul>
 
             </div>
 
