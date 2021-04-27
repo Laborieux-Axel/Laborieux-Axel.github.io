@@ -17,15 +17,16 @@ body {
   text-align: justify;
 }
 
+a {
+  text-decoration: none;
+  color:#39c;
+}
+
 a:visited, a:hover {
   text-decoration: none;
   color:#069;
 }
 
-a {
-  text-decoration: none;
-  color:#39c;
-}
 
 ul {
   list-style-type: disc;
