@@ -66,7 +66,7 @@ th, td {
 }
 
 
-header ul a {
+header ul a, header ul a:visited {
   color: #595959;
   font-weight: 300;
   font-variant: initial;
