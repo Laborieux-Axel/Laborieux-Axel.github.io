@@ -11,6 +11,3 @@ codeurl: 'https://github.com/Laborieux-Axel/SynapticMetaplasticityBNN'
 pressurl: 'https://techxplore.com/news/2021-06-bio-inspired-technique-mitigate-catastrophic-binarized.html'
 citation: '<b>Laborieux, A.</b>, Ernoult, M., Hirtzlin, T., & Querlioz, D.'
 ---
-
-[paper](https://www.nature.com/articles/s41467-021-22768-y)
-

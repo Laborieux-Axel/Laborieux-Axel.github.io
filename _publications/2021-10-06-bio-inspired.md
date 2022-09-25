@@ -9,7 +9,3 @@ paperurl: 'https://tel.archives-ouvertes.fr/tel-03406085/'
 oralurl: 'https://www.youtube.com/watch?v=kCT6AZqZbRE'
 citation: '<b>Laborieux, A.</b>'
 ---
-
-[manuscript](https://tel.archives-ouvertes.fr/tel-03406085/) - 
-[defense](https://www.youtube.com/watch?v=kCT6AZqZbRE)
-

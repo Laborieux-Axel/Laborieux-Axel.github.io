@@ -11,6 +11,3 @@ preprinturl: 'https://arxiv.org/abs/2209.00530'
 codeurl: 'https://github.com/Laborieux-Axel/holomorphic_eqprop'
 citation: '<b>Laborieux, A.</b>, & Zenke, F.'
 ---
-
-[preprint](https://arxiv.org/abs/2209.00530)
-

@@ -11,6 +11,3 @@ preprinturl: 'https://arxiv.org/abs/2006.03824'
 codeurl: 'https://github.com/Laborieux-Axel/Equilibrium-Propagation'
 citation: '<b>Laborieux, A.</b>, Ernoult, M., Scellier, B., Bengio, Y., Grollier, J., & Querlioz, D.'
 ---
-
-[Paper](https://www.frontiersin.org/articles/10.3389/fnins.2021.633674/full)
-

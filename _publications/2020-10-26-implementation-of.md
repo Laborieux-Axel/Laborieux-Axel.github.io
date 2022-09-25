@@ -10,7 +10,3 @@ preprinturl: 'https://arxiv.org/pdf/2007.14234'
 codeurl: 'https://github.com/Laborieux-Axel/Quantized_VGG'
 citation: '<b>Laborieux, A.</b>, Bocquet, M., Hirtzlin, T., Klein, J. O., Nowak, E., Vianello, E., Portal, J.-M., & Querlioz, D.'
 ---
-
-[paper](https://ieeexplore.ieee.org/abstract/document/9239258) - 
-[preprint](https://arxiv.org/pdf/2007.14234)
-
