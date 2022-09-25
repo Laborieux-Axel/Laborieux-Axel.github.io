@@ -189,7 +189,7 @@ collections:
     permalink: /:collection/:path/
 
 
-# Defaults
+# Defaults front matter values
 defaults:
   # _posts
   - scope:

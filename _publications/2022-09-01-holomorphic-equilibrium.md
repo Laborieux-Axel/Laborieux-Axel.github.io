@@ -6,6 +6,8 @@ excerpt: 'In this paper we extend Equilibrium Propagation to holomorphic network
 date: 2022-09-01
 venue: 'accepeted at NeurIPS'
 paperurl: 'https://arxiv.org/abs/2209.00530'
+preprinturl: 'https://arxiv.org/abs/2209.00530'
+codeurl: 'https://github.com/Laborieux-Axel/holomorphic_eqprop'
 citation: 'Laborieux, A., & Zenke, F. (2022). Holomorphic Equilibrium Propagation Computes Exact Gradients Through Finite Size Oscillations. arXiv preprint arXiv:2209.00530.'
 ---
 
