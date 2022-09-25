@@ -8,7 +8,7 @@ venue: 'TCAS I'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9239258'
 preprinturl: 'https://arxiv.org/pdf/2007.14234'
 codeurl: 'https://github.com/Laborieux-Axel/Quantized_VGG'
-citation: 'Laborieux, A., Bocquet, M., Hirtzlin, T., Klein, J. O., Nowak, E., Vianello, E., ... & Querlioz, D. (2020). Implementation of ternary weights with resistive ram using a single sense operation per synapse. IEEE Transactions on Circuits and Systems I: Regular Papers, 68(1), 138-147.'
+citation: '<b>Laborieux, A.</b>, Bocquet, M., Hirtzlin, T., Klein, J. O., Nowak, E., Vianello, E., ... & Querlioz, D.'
 ---
 
 [paper](https://ieeexplore.ieee.org/abstract/document/9239258) - 

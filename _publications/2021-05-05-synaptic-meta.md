@@ -7,7 +7,8 @@ date: 2021-05-05
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-021-22768-y'
 codeurl: 'https://github.com/Laborieux-Axel/SynapticMetaplasticityBNN'
-citation: 'Laborieux, A., Ernoult, M., Hirtzlin, T., & Querlioz, D. (2021). Synaptic metaplasticity in binarized neural networks. <i>Nature communications</i>, 12(1), 1-12.'
+pressurl: 'https://techxplore.com/news/2021-06-bio-inspired-technique-mitigate-catastrophic-binarized.html'
+citation: '<b>Laborieux, A.</b>, Ernoult, M., Hirtzlin, T., & Querlioz, D.'
 ---
 
 [paper](https://www.nature.com/articles/s41467-021-22768-y)
