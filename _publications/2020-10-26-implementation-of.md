@@ -8,7 +8,7 @@ venue: 'TCAS I'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9239258'
 preprinturl: 'https://arxiv.org/pdf/2007.14234'
 codeurl: 'https://github.com/Laborieux-Axel/Quantized_VGG'
-citation: '<b>Laborieux, A.</b>, Bocquet, M., Hirtzlin, T., Klein, J. O., Nowak, E., Vianello, E., ... & Querlioz, D.'
+citation: '<b>Laborieux, A.</b>, Bocquet, M., Hirtzlin, T., Klein, J. O., Nowak, E., Vianello, E., Portal, J.-M., & Querlioz, D.'
 ---
 
 [paper](https://ieeexplore.ieee.org/abstract/document/9239258) - 
