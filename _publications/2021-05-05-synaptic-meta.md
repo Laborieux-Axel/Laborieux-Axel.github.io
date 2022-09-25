@@ -1,7 +1,7 @@
 ---
 title: "Synaptic Metaplasticity in Binarized Neural Networks"
 collection: publications
-permalink: /publication/metabnn
+permalink: /publications/2021-05-05-synaptic-meta
 excerpt: 'In this work we investigate an interesting and previously unexplored link between the optimization process of binarized neural networks (BNNs) and neuroscience theories of synaptic metaplasticity. We show how to modify the training process of BNNs to mitigate forgetting and achieve continual learning.'
 date: 2021-05-05
 venue: 'Nature Communications'
