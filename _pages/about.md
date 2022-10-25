@@ -11,6 +11,7 @@ I am a Postdoctoral researcher at the [Friedrich Miescher Institute](https://fmi
 
 # News
 
+  * (10/2022) - Holomorphic equilibrium propagation was selected as an "Oral" at NeurIPS 2022!
   * (09/2022) - My paper on holomorphic equilibrium propagation got accepted at NeurIPS 2022!
   * (07/2022) - I was awarded a fellowship from the [Swiss National Science Foundation](https://www.snf.ch/en)! The goal of the project is to link cortical circuit motifs to there putative functions in the framework of predictive processing.
 
