@@ -11,6 +11,7 @@ I am a Postdoctoral researcher at the [Friedrich Miescher Institute](https://fmi
 
 # News
 
+  * (03/2023) - I received the Thesis Prize from the Graduate School of Engineering Sciences and Systems for Paris-Saclay University!
   * (02/2023) - I will attend and give a talk at the workshop on [Recent advances in understanding artificial and biological neural networks](https://statphysneuro.github.io/) in les Houches!
   * (10/2022) - Holomorphic equilibrium propagation was selected as an "Oral" at NeurIPS 2022!
   * (09/2022) - My paper on holomorphic equilibrium propagation got accepted at NeurIPS 2022!
