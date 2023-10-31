@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral researcher at the [Friedrich Miescher Institute](https://fmi.ch) in Computational Neuroscience in the team of [Friedemann Zenke](https://zenkelab.org).
+I am a Postdoctoral researcher at the [Friedrich Miescher Institute](https://fmi.ch) in Computational Neuroscience and AI in the team of [Friedemann Zenke](https://zenkelab.org).
 
 # News
 
+  * (10/2023) - New paper on how non-contrastive SSL implicitly regularizes variance accepted at NeurIPS 2023! 🎉 
   * (07/2023) - The fractal plot I submitted to FMI's science image competition, derived from [holomorphic EP](https://proceedings.neurips.cc/paper_files/paper/2022/hash/545a114e655f9d25ba0d56ea9a01fc6e-Abstract-Conference.html), have been selected and <a href="/files/science_competition.jpg">printed</a> for display at the FMI!  
   * (03/2023) - I received the Thesis Prize from the Graduate School of Engineering Sciences and Systems from Paris-Saclay University! 🥇
   * (02/2023) - I will attend and give a talk at the workshop on [Recent advances in understanding artificial and biological neural networks](https://statphysneuro.github.io/) in les Houches! 🏔  
