@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral researcher at the [Friedrich Miescher Institute](https://fmi.ch) in Computational Neuroscience and AI in the team of [Friedemann Zenke](https://zenkelab.org).
+I am a Postdoctoral researcher at the [Friedrich Miescher Institute](https://fmi.ch) in Computational Neuroscience and AI in the team of [Friedemann Zenke](https://zenkelab.org). You can find my CV <a href="/files/cv.pdf">here</a>.
 
 # News
 
