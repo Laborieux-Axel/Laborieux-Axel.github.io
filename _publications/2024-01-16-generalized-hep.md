@@ -6,7 +6,7 @@ excerpt: 'Equilibrium propagation (EP) is a local learning rule with strong theo
 date: 2024-01-16
 venue: 'ICLR'
 thumbnail: '/images/generalized-hep.png'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2309.02214'
 preprinturl: 'https://arxiv.org/abs/2309.02214'
 codeurl: 'https://github.com/Laborieux-Axel/generalized-holo-ep'
 citation: '<b>Laborieux, A.</b>, & Zenke, F.'
