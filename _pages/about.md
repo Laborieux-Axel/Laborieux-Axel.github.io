@@ -7,10 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a currently a postdoc researcher at the [Friedrich Miescher Institute](https://fmi.ch) in Basel 🇨🇭 in computational neuroscience and AI in the team of [Friedemann Zenke](https://zenkelab.org).
-Prior to that, I completed my PhD in physics with [Damien Querlioz](https://sites.google.com/site/damienquerlioz/) at the [Center for Nanoscience](https://www.c2n.universite-paris-saclay.fr/en/) in Saclay 🇫🇷.
-I am interested in how artificial and biological neural networks learn efficiently and how circuit structure relates to computation.
-I am grateful to be funded by the [Swiss National Science Fundation](https://www.snf.ch/en).
+I am a currently a Research Scientist in the neuromorphic team of Huawei Switzerland in Zurich.
+Previously I did a postdoc at the [Friedrich Miescher Institute](https://fmi.ch) 
+in the team of [Friedemann Zenke](https://zenkelab.org), and funded by 
+the [Swiss National Science Fundation](https://www.snf.ch/en).
+Prior to that, I completed my PhD in physics with 
+[Damien Querlioz](https://sites.google.com/site/damienquerlioz/) at the 
+[Center for Nanoscience](https://www.c2n.universite-paris-saclay.fr/en/) in 
+Saclay, France 🇫🇷.
+I am interested in how artificial and biological neural networks learn 
+efficiently and how circuit structure relates to computation.
 You can find my CV <a href="/files/cv.pdf">here</a>.
 
 # News
