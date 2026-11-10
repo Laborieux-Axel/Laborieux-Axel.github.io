@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a currently a Research Scientist in the neuromorphic team of Huawei Switzerland in Zurich.
-Previously I did a postdoc at the [Friedrich Miescher Institute](https://fmi.ch) 
+I am a currently a Research Scientist at Huawei Zurich.
+Previously I was a postdoctoral researcher at the [Friedrich Miescher Institute](https://fmi.ch) 
 in the team of [Friedemann Zenke](https://zenkelab.org), and funded by 
 the [Swiss National Science Fundation](https://www.snf.ch/en).
 Prior to that, I completed my PhD in physics with 
